@@ -1,0 +1,2 @@
+# xmapi
+XMRig API
